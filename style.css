@@ -27,3 +27,11 @@ body {
     padding: 1rem;
     background: #ddd;
   }
+
+
+  #format-select {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
