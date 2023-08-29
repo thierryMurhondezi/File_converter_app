@@ -1,0 +1,29 @@
+/* styles.css */
+
+body {
+    font-family: Arial;
+    margin: 1rem;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  main {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  #file-input, 
+  #convert-btn {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+  }
+  
+  #converted-file {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #ddd;
+  }
